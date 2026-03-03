@@ -1,0 +1,40 @@
+{
+  "spaceship": {
+    "id": "ship-001",
+    "name": "The Ark of Dawn",
+    "decks": [
+      {
+        "id": "deck-1",
+        "name": "Deck 1",
+        "seats": [
+          { "id": "D1-01", "isReserved": false },
+          { "id": "D1-02", "isReserved": false },
+          { "id": "D1-03", "isReserved": false },
+          { "id": "D1-04", "isReserved": false },
+          { "id": "D1-05", "isReserved": false },
+          { "id": "D1-06", "isReserved": false },
+          { "id": "D1-07", "isReserved": false },
+          { "id": "D1-08", "isReserved": false },
+          { "id": "D1-09", "isReserved": false },
+          { "id": "D1-10", "isReserved": false }
+        ]
+      },
+      {
+        "id": "deck-2",
+        "name": "Deck 2",
+        "seats": [
+          { "id": "D2-01", "isReserved": false },
+          { "id": "D2-02", "isReserved": false },
+          { "id": "D2-03", "isReserved": false },
+          { "id": "D2-04", "isReserved": false },
+          { "id": "D2-05", "isReserved": false },
+          { "id": "D2-06", "isReserved": false },
+          { "id": "D2-07", "isReserved": false },
+          { "id": "D2-08", "isReserved": false },
+          { "id": "D2-09", "isReserved": false },
+          { "id": "D2-10", "isReserved": false }
+        ]
+      }
+    ]
+  }
+}
